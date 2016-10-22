@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Stations</string>
+    <string-array name="dhaka_divison">
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+    </string-array>
+
+    <string-array name="ctg_divison">
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+    </string-array>
+
+
+</resources>
